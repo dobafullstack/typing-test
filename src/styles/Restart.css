@@ -1,0 +1,19 @@
+.restart {
+  border: none;
+  outline: none;
+  padding: 1.2rem;
+  border-radius: 0.5rem;
+  background-color: #428bca;
+  text-align: center;
+  cursor: pointer;
+}
+
+.restart:hover {
+  background-color: #3276b1;
+}
+
+.restart img {
+  width: 1rem;
+  height: 1rem;
+  color: white;
+}
